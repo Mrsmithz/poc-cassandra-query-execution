@@ -1,0 +1,1 @@
+INSERT INTO test.users(id, username, password) VALUES (uuid(), 'John', '1234');

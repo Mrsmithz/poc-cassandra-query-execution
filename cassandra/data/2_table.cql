@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS test.users (id UUID PRIMARY KEY, username text, password text);
